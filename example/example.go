@@ -1,8 +1,8 @@
 package main
 
 import (
-	echopprof "github.com/devnode/echo-pprof"
 	"github.com/labstack/echo/v4"
+	echopprof "go.devnode.io/echo-pprof"
 )
 
 func main() {
